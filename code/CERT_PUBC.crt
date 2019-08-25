@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=CQ, L=YC, O=Pikachu Technology Co., Ltd., OU=Certificate Encryption System, CN=Pikachu Root CA/emailAddress=pikachuim@qq.com
+        Validity
+            Not Before: Aug 23 06:03:55 2019 GMT
+            Not After : Jan  7 06:03:55 2047 GMT
+        Subject: C=CN, ST=CQ, L=YC, O=Pikachu Technology Co., Ltd., OU=Certificate Encryption System, CN=Pikachu Cert Sign/emailAddress=pikachuim@qq.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e3:b0:e8:10:2e:19:79:1d:42:c9:e4:cb:2d:dc:
+                    8e:a4:0d:d3:59:53:4e:b8:9c:7d:be:ea:d3:2e:c7:
+                    14:ee:2b:9c:ec:6c:98:f2:ed:2e:39:de:63:6c:66:
+                    19:51:67:1d:00:f9:0f:59:61:b4:95:68:5b:1b:55:
+                    3c:6e:3a:62:22:4c:08:48:01:fb:1a:84:33:a6:b5:
+                    8c:51:f0:99:11:de:63:55:1f:5a:0e:df:81:f8:24:
+                    a5:55:77:e9:a2:09:13:e9:f4:6a:39:02:db:b5:a2:
+                    16:f1:27:f3:b5:e1:e0:e8:fc:4a:94:d4:4b:1c:c1:
+                    55:bc:07:36:bf:ff:47:18:8f:b4:d2:d2:a1:c7:60:
+                    df:49:aa:41:5e:86:39:ac:bb:81:5f:08:55:50:a6:
+                    c0:21:c8:b9:5b:ac:d5:b1:3f:3a:66:3e:dd:e0:13:
+                    f5:25:14:23:24:09:8b:9e:b5:b6:08:fc:1b:03:f1:
+                    da:6b:06:c7:7b:e5:2d:c9:65:1d:76:aa:cc:9a:f6:
+                    e4:af:92:0c:5b:37:70:0a:0c:d4:0f:21:14:1a:70:
+                    70:cb:7d:2e:3f:9a:2f:9f:59:3c:fe:21:aa:f5:d2:
+                    21:88:73:c0:7c:0d:32:1b:22:a8:42:c5:e6:5c:f5:
+                    9a:e7:46:22:ab:49:1f:bf:2a:33:98:57:e9:de:0b:
+                    89:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                7E:07:5B:08:BB:12:FA:5F:84:61:38:4C:9B:34:10:12:50:1F:17:DF
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment, Key Agreement, Certificate Sign, CRL Sign, Encipher Only, Decipher Only
+    Signature Algorithm: sha256WithRSAEncryption
+         98:d6:f4:5c:99:8c:36:92:4b:89:94:2b:1c:7f:23:b5:23:1f:
+         c5:d7:c9:21:94:8d:5b:01:b5:14:9f:d7:f0:97:b2:dc:0f:3e:
+         7c:bd:de:f2:e4:a7:ed:2e:81:2e:0d:66:e8:65:a5:17:54:a6:
+         f1:e0:82:fb:36:f9:33:e1:01:fb:3b:83:72:2f:a1:66:43:3c:
+         27:32:c3:93:5a:36:91:c5:d0:e1:cd:9a:69:7a:91:57:79:60:
+         f1:d6:91:86:a8:ef:0c:6c:bd:37:be:92:7a:9f:bd:f9:2a:11:
+         73:47:2e:ca:e0:a7:2a:e0:5a:7f:3d:f7:37:90:56:f6:3b:60:
+         14:89:fa:1f:68:e1:83:40:9f:54:46:07:23:be:1d:fb:98:23:
+         56:85:fa:cc:2c:71:4e:ef:c4:d2:be:17:d9:c2:be:86:41:68:
+         0f:a4:37:6d:7f:14:b3:17:72:52:24:28:e6:62:ff:9e:64:8f:
+         3b:fa:29:97:96:57:7e:34:06:6f:5c:f2:f5:5b:88:33:59:1b:
+         9c:8a:34:1f:54:1a:be:c3:57:d6:cc:30:bf:83:f1:08:0d:45:
+         90:2b:3b:b5:fc:6a:4f:2a:a9:ad:05:40:0f:07:a1:83:e3:f1:
+         26:ee:e2:45:03:24:e1:5d:4c:27:e5:5d:26:72:d7:12:99:5e:
+         da:3e:b8:b4:87:48:f6:5f:be:3a:76:78:f5:39:e1:08:53:fc:
+         71:1c:9d:39:2d:23:52:69:d7:9f:f3:67:a2:85:28:be:7e:48:
+         2b:b9:2f:29:89:ca:ef:2a:3b:4a:e8:0d:a5:e1:d5:a2:50:d0:
+         f5:6b:05:33:bf:f6:0a:25:1d:95:39:b8:15:a2:dd:38:35:8a:
+         ca:cc:d8:1c:65:0c:8f:3c:cb:7f:b3:81:fc:2c:f2:dd:e5:4e:
+         bb:5f:c5:5d:74:ab:5d:a2:53:eb:82:43:9a:f7:7d:8f:d0:6d:
+         df:81:18:6c:a2:3d:14:3b:27:c7:6b:ce:38:8d:e2:c4:c7:99:
+         1a:e1:46:dc:2d:c8:f5:79:d0:38:2a:93:3d:f6:91:c0:fb:45:
+         30:f2:33:34:dd:84:1c:91:2b:81:21:26:5f:7b:2b:b2:1c:ca:
+         02:14:8a:8d:b7:a9:1c:7d:f6:84:1f:58:3d:0e:5e:52:99:c8:
+         6d:97:29:be:4c:f6:e4:e9:96:cb:98:e6:ff:69:7d:bd:1b:e7:
+         ec:1e:83:9c:85:d6:33:b5:97:d1:b1:13:10:c5:58:c2:68:86:
+         84:cd:de:e8:3e:57:a7:50:27:4b:99:a6:7f:25:a5:ce:8a:e7:
+         ca:60:58:08:5d:e2:40:ff:b1:5f:b3:94:1c:c1:04:e2:56:2a:
+         24:3a:93:a9:b8:68:09:99
+-----BEGIN CERTIFICATE-----
+MIIFHjCCAwagAwIBAgIBBDANBgkqhkiG9w0BAQsFADCBsTELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAkNRMQswCQYDVQQHEwJZQzElMCMGA1UEChMcUGlrYWNodSBUZWNo
+bm9sb2d5IENvLiwgTHRkLjEmMCQGA1UECxMdQ2VydGlmaWNhdGUgRW5jcnlwdGlv
+biBTeXN0ZW0xGDAWBgNVBAMTD1Bpa2FjaHUgUm9vdCBDQTEfMB0GCSqGSIb3DQEJ
+ARYQcGlrYWNodWltQHFxLmNvbTAeFw0xOTA4MjMwNjAzNTVaFw00NzAxMDcwNjAz
+NTVaMIGzMQswCQYDVQQGEwJDTjELMAkGA1UECAwCQ1ExCzAJBgNVBAcMAllDMSUw
+IwYDVQQKDBxQaWthY2h1IFRlY2hub2xvZ3kgQ28uLCBMdGQuMSYwJAYDVQQLDB1D
+ZXJ0aWZpY2F0ZSBFbmNyeXB0aW9uIFN5c3RlbTEaMBgGA1UEAwwRUGlrYWNodSBD
+ZXJ0IFNpZ24xHzAdBgkqhkiG9w0BCQEWEHBpa2FjaHVpbUBxcS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDjsOgQLhl5HULJ5Mst3I6kDdNZU064
+nH2+6tMuxxTuK5zsbJjy7S453mNsZhlRZx0A+Q9ZYbSVaFsbVTxuOmIiTAhIAfsa
+hDOmtYxR8JkR3mNVH1oO34H4JKVVd+miCRPp9Go5Atu1ohbxJ/O14eDo/EqU1Esc
+wVW8Bza//0cYj7TS0qHHYN9JqkFehjmsu4FfCFVQpsAhyLlbrNWxPzpmPt3gE/Ul
+FCMkCYuetbYI/BsD8dprBsd75S3JZR12qsya9uSvkgxbN3AKDNQPIRQacHDLfS4/
+mi+fWTz+Iar10iGIc8B8DTIbIqhCxeZc9ZrnRiKrSR+/KjOYV+neC4kJAgMBAAGj
+PTA7MB0GA1UdDgQWBBR+B1sIuxL6X4RhOEybNBASUB8X3zAMBgNVHRMEBTADAQH/
+MAwGA1UdDwQFAwMH/4AwDQYJKoZIhvcNAQELBQADggIBAJjW9FyZjDaSS4mUKxx/
+I7UjH8XXySGUjVsBtRSf1/CXstwPPny93vLkp+0ugS4NZuhlpRdUpvHggvs2+TPh
+Afs7g3IvoWZDPCcyw5NaNpHF0OHNmml6kVd5YPHWkYao7wxsvTe+knqfvfkqEXNH
+LsrgpyrgWn899zeQVvY7YBSJ+h9o4YNAn1RGByO+HfuYI1aF+swscU7vxNK+F9nC
+voZBaA+kN21/FLMXclIkKOZi/55kjzv6KZeWV340Bm9c8vVbiDNZG5yKNB9UGr7D
+V9bMML+D8QgNRZArO7X8ak8qqa0FQA8HoYPj8Sbu4kUDJOFdTCflXSZy1xKZXto+
+uLSHSPZfvjp2ePU54QhT/HEcnTktI1Jp15/zZ6KFKL5+SCu5LymJyu8qO0roDaXh
+1aJQ0PVrBTO/9golHZU5uBWi3Tg1isrM2BxlDI88y3+zgfws8t3lTrtfxV10q12i
+U+uCQ5r3fY/Qbd+BGGyiPRQ7J8drzjiN4sTHmRrhRtwtyPV50Dgqkz32kcD7RTDy
+MzTdhByRK4EhJl97K7IcygIUio23qRx99oQfWD0OXlKZyG2XKb5M9uTplsuY5v9p
+fb0b5+weg5yF1jO1l9GxExDFWMJohoTN3ug+V6dQJ0uZpn8lpc6K58pgWAhd4kD/
+sV+zlBzBBOJWKiQ6k6m4aAmZ
+-----END CERTIFICATE-----
